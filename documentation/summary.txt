@@ -1,0 +1,113 @@
+Paragraph 1 — Why fuel prices matter at all
+No citations except Hamilton (2009).
+
+"...affecting the cost of living, inflation, business operating costs, and ultimately the welfare of ordinary citizens (Hamilton, 2009)."
+
+What Hamilton (2009) is about: James Hamilton studied the 2007–08 oil price shock and its economic consequences. You're citing him here to support the general idea that fuel/oil price changes ripple through an entire economy — not just at the pump, but into inflation and business costs.
+Why it's here: This sets up the stakes of your whole project — fuel prices matter because they touch everything.
+
+Paragraph 2 — The Global Layer
+
+"...driven by geopolitical tensions, supply decisions by OPEC, global demand cycles, and macroeconomic shocks (Kilian, 2009)."
+
+What Kilian (2009) is about: Lutz Kilian's famous paper "Not All Oil Price Shocks Are Alike" — he showed that oil price changes can come from different sources (e.g., supply disruption vs. demand surge) and that the source of the shock matters for its economic effect. You're citing him to support the claim that global crude oil prices are volatile and driven by multiple types of shocks.
+
+"...employing a wide range of time series and econometric methods, including ARIMA, VAR, and machine learning techniques (Jammazi & Aloui, 2012; Baumeister & Kilian, 2014)."
+
+What Jammazi & Aloui (2012) is about: They forecasted crude oil prices using wavelet decomposition combined with neural networks — a more advanced machine learning approach. You cite them as an example of the "machine learning techniques" mentioned.
+What Baumeister & Kilian (2014) is about: A paper aimed at central bankers, reviewing and comparing different methods for forecasting oil prices in real time. You cite them as an example of serious econometric forecasting work on oil prices.
+Why these two together: They prove your claim that researchers have used a range of methods (not just one) to study oil price forecasting — setting up the idea that your project will do something similar, but specifically for Ghana's retail fuel prices.
+
+Paragraph 3 — The Sub-Saharan Africa Layer
+
+"...the depreciation of local currencies against the United States dollar — the currency in which crude oil is traded internationally — amplifies the domestic price impact of global oil market movements (Alom et al., 2013)."
+
+What Alom et al. (2013) is about: They studied how world oil and food price shocks affect Asia-Pacific economies using SVAR (Structural VAR) models — looking at how external shocks transmit into domestic economies, especially ones that import these commodities.
+Why it's here: Even though their study is on Asia-Pacific, the mechanism they describe — currency depreciation amplifying imported oil price shocks — applies directly to Sub-Saharan Africa too. You're borrowing their established mechanism to explain why African economies (which import fuel and price it in USD) are especially vulnerable.
+
+Paragraph 4 — The Ghana Layer
+
+"...using a price build-up formula that explicitly incorporates international benchmark prices and the prevailing exchange rate (National Petroleum Authority [NPA], 2023)."
+
+What NPA (2023) is about: This is the actual Legislative Instrument (L.I. 2186) — Ghana's law that defines how fuel prices are calculated. Not a research paper — a primary government/legal document. You cite it because you are making a factual claim about how Ghana's pricing system legally works, and the law itself is the proof.
+
+"...the sustained depreciation of the cedi — which lost 29.9% of its value...(Bank of Ghana, 2023)"
+
+What Bank of Ghana (2023) is about: Their official Annual Report 2022 — the primary source for Ghana's actual economic statistics. You cite it because the 29.9% figure is a fact reported by the institution that tracks it.
+
+Paragraph 5 — Fuel Prices and Inflation Interact
+
+"Rising fuel prices increase production and distribution costs...contributing to broader inflationary pressures...(Addae & Ackah, 2017)."
+
+What Addae & Ackah (2017) is about: A study specifically on Ghana, looking at whether petroleum prices influence inflation dynamics before and after Ghana deregulated its downstream petroleum sector. This is one of the few Ghana-specific papers connecting fuel prices to inflation — extremely relevant to your argument.
+
+"...exchange rate depreciation and imported input costs amplify this transmission...(Bawa et al., 2016)."
+
+What Bawa et al. (2016) is about: A study on inflation dynamics in Nigeria, focusing on how exchange rate movements pass through into domestic prices. You use it here narrowly — just to support the idea that exchange rate depreciation raises the cost of imported goods (including fuel), not as a direct claim about Ghana.
+
+"...inflationary conditions...feed back into energy markets (Kilian, 2009)."
+
+Kilian appears again here to support the idea that the relationship goes both ways — not just fuel-to-inflation, but inflation conditions can also affect energy markets and demand.
+
+"...it must be examined as part of a dynamic system...(Hamilton, 2009)."
+
+Hamilton appears again here because his work supports treating oil/fuel prices as part of an interconnected macroeconomic system rather than something to be predicted in isolation — this is your direct justification for using VAR, which models systems rather than single variables.
+
+Paragraph 6 — The Research Gap (this is your "nobody has done this" claim)
+
+"Most existing forecasting studies...focus on general commodity prices or inflation indices rather than sector-specific fuel price series (Alom et al., 2013; Baumeister & Kilian, 2014)."
+
+Here Alom et al. and Baumeister & Kilian are being used as examples of the gap — they studied broad commodity/oil prices, not Ghana's specific retail fuel prices. You are pointing at them and saying "see, even good studies like these stop at the international or broad level — nobody goes down to Ghana's actual pump prices."
+
+The Big Picture — How All Citations Work Together
+CitationRole in your argumentHamilton (2009)Fuel prices matter to the whole economyKilian (2009)Global oil prices are volatile and shock-drivenJammazi & Aloui (2012)Example of ML forecasting methods used globallyBaumeister & Kilian (2014)Example of serious oil forecasting research; also example of the "gap"Alom et al. (2013)Mechanism: currency depreciation amplifies imported price shocks; also example of the "gap"NPA (2023)Legal proof of how Ghana's pricing formula worksBank of Ghana (2023)Factual proof of Ghana's 2022 economic shock (depreciation, price increases)Ghana Statistical Service (2023)Factual proof of Ghana's 2022 inflation rateAddae & Ackah (2017)Ghana-specific proof that fuel prices affect inflationBawa et al. (2016)Supporting mechanism: exchange rate raises imported costs
+
+In one sentence: Every citation either (1) proves a fact, (2) supports a mechanism/relationship, or (3) demonstrates the literature gap you are filling. None of them are decorative — each is doing specific argumentative work.
+Does this match how you were trying to read it? Want me to do the same breakdown for Section 1.2 next?You said: what does the 1 to 6 month meanwhat does the 1 to 6 month meanTo compare the forecasting accuracy of the three models across 1–6 month forecast horizons using RMSE, MAE, MAPE, and the Diebold-Mariano test.To evaluate the practical utility of the models in providing 1–6 month advance warning of fuel price changes to consumers and policymakers in Ghana.10:12 AMClaude responded: Good question — let's break this down clearly since it shows up in two different objectives doing slightly different jobs.Good question — let's break this down clearly since it shows up in two different objectives doing slightly different jobs.
+
+What "1–6 months" actually means
+It means you are not making just one forecast. You are testing your models at multiple forecast distances into the future, specifically:
+
+1 month ahead
+2 months ahead
+3 months ahead
+4 months ahead
+5 months ahead
+6 months ahead
+
+So if your data ends in December 2023, your model would try to predict January 2024 (1 month ahead), February 2024 (2 months ahead), all the way to June 2024 (6 months ahead) — and you check how accurate each of those predictions turned out to be.
+
+Why test multiple horizons instead of just one?
+Because forecast accuracy is not constant — it changes the further into the future you try to predict.
+Think of it like weather forecasting: tomorrow's forecast is usually quite accurate. A forecast for 6 days from now is shakier. The same logic applies to fuel prices.
+So your project is asking:
+
+"How far into the future can these models still be trusted?"
+
+
+How Objective 4 and Objective 5 differ
+Objective 4 — the statistical question:
+
+"To compare the forecasting accuracy of the three models across 1–6 month forecast horizons using RMSE, MAE, MAPE, and the Diebold-Mariano test."
+
+This is purely about numbers. You compute RMSE, MAE, MAPE at each horizon (1 month, 2 months... 6 months) for each model (ARIMA, ARIMAX, VAR), then use the Diebold-Mariano test to check if differences between models are statistically significant. The output here is a table of error scores.
+
+Objective 5 — the practical/policy question:
+
+"To evaluate the practical utility of the models in providing 1–6 month advance warning of fuel price changes to consumers and policymakers in Ghana."
+
+This goes one step further than just numbers. It asks: "Given those accuracy results, is this actually useful for real people?"
+For example, you might find:
+
+ARIMAX is highly accurate at 1–2 months but becomes unreliable by month 4
+VAR stays reasonably accurate even at 6 months
+
+Objective 5 is where you translate that into a real-world statement like:
+
+"The findings suggest that policymakers can reliably use the ARIMAX model for short-term (1–2 month) planning, but should rely on the VAR model for longer-term (up to 6 month) advance warning."
+
+
+In short
+ObjectiveQuestion it answersObjective 4"Which model has the lowest error at each forecast distance, and is that difference statistically real?"Objective 5"So what? What does that mean for someone trying to plan their finances or policy 1–6 months ahead?"
+Objective 4 is the technical engine. Objective 5 is the so-what, connecting your statistics back to your original research question: "Can fuel prices be forecast with enough accuracy to give consumers/policymakers advance warning?"
+Does that clarify it? Want me to walk through how you would actually structure this in Python once we get to Chapter 3/4 — i.e., how a 1–6 month rolling forecast is set up?
